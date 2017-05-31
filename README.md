@@ -8,3 +8,4 @@ Things of note:
 * The factories support VRTK via a checkbox, but VRTK is not necessary. This demo isn't using VRTK.
 
 ![keyboard image](http://i.imgur.com/650cDDP.gif "Keyboard")
+![toggle buttons image](http://i.imgur.com/k4CysCr.gif "Toggle Buttons")
