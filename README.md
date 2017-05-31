@@ -7,4 +7,4 @@ Things of note:
 * All panels and buttons are made using factories. This means the materials and basic building blocks (background cube, etc) are fully interchangeable.
 * The factories support VRTK via a checkbox, but VRTK is not necessary. This demo isn't using VRTK.
 
-![keyboard image](http://i.imgur.com/650cDDP.gifv "Keyboard")
+![keyboard image](http://i.imgur.com/650cDDP.gif "Keyboard")
