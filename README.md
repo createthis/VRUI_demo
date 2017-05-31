@@ -5,3 +5,4 @@ Things of note:
 * The buttons are clickable just by moving the controller (no trigger necessary).
 * There are two basic types of buttons: toggle (skybox buttons) and momentary (open and saveas, and keyboard buttons).
 * All panels and buttons are made using factories. This means the materials and basic building blocks (background cube, etc) are fully interchangeable.
+* The factories support VRTK via a checkbox, but VRTK is not necessary. This demo isn't using VRTK.
