@@ -17,59 +17,32 @@ Platform assembly: C:\Users\jesse\Documents\createthis_vr_ui\build\createthis_vr
 Loading C:\Users\jesse\Documents\createthis_vr_ui\build\createthis_vr_ui_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Users\jesse\Documents\createthis_vr_ui\build\createthis_vr_ui_Data\Managed\UnityEngine.VR.dll (this message is harmless)
 Loading C:\Users\jesse\Documents\createthis_vr_ui\build\createthis_vr_ui_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
-- Completed reload, in  0.018 seconds
+- Completed reload, in  0.020 seconds
 Platform assembly: C:\Users\jesse\Documents\createthis_vr_ui\build\createthis_vr_ui_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jesse\Documents\createthis_vr_ui\build\createthis_vr_ui_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 3840x2160 30Hz; virtual: 3840x2160 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 0.859974 ms
-None,OpenVR
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1eb18 -> priority: 1 
-  Thread -> id: 1c658 -> priority: 1 
-  Thread -> id: 1c5dc -> priority: 1 
-  Thread -> id: 1d28c -> priority: 1 
 OpenVR initialized!
  
 (Filename:  Line: 424)
 
-[VRDevice] Successfully created device OpenVR.
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.588117 ms
+UnloadTime: 0.447105 ms
 Connected to lighthouse:LHR-59E8DEA9
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 4027.
-Total: 0.858441 ms (FindLiveObjects: 0.231472 ms CreateObjectMapping: 0.058506 ms MarkObjects: 0.549300 ms  DeleteObjects: 0.017884 ms)
-
-TouchController[Device3] start
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2fc20 -> priority: 1 
+  Thread -> id: 2ef2c -> priority: 1 
+  Thread -> id: 2fbd0 -> priority: 1 
+  Thread -> id: 2ef9c -> priority: 1 
+TouchController[Device1] start
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 hardware=htc_vive
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-TouchController[Device4] start
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-hardware=htc_vive
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[Device4] Grip down
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-[Device4] Grip up
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
